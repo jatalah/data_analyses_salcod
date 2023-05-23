@@ -1,0 +1,826 @@
+ID,Season,Location,Fjord,Treatment,Sex,Maturity,Age,Fulton,name,value,Type
+F_106,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7652280379553107,w3,29.5310853711,FA index
+F_106,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7652280379553107,w6,4.1859458321,FA index
+F_106,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7652280379553107,SFA,26.877270775600003,FA index
+F_106,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7652280379553107,MFA,40.57388333869999,FA index
+F_106,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7652280379553107,PUFA,32.548845886,FA index
+F_106,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7652280379553107,Oleic,10.4565440611,FA
+F_106,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7652280379553107,Linoleic,1.9777908564,FA
+F_106,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7652280379553107,Linolenic,0.8096055392,FA
+F_106,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7652280379553107,Docosahexaenoic,18.7104343877,FA
+F_106,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7652280379553107,Eicosapentaenoic,8.634369666,FA
+F_106,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7652280379553107,Arachidonic,0.5464203452,FA
+F_110,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.8875076312650381,w3,24.8010364763,FA index
+F_110,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.8875076312650381,w6,3.9533439321,FA index
+F_110,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.8875076312650381,SFA,25.6879203176,FA index
+F_110,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.8875076312650381,MFA,46.376202246800005,FA index
+F_110,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.8875076312650381,PUFA,27.9358774358,FA index
+F_110,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.8875076312650381,Oleic,18.4983441991,FA
+F_110,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.8875076312650381,Linoleic,1.6332525704,FA
+F_110,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.8875076312650381,Linolenic,0.8147495978,FA
+F_110,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.8875076312650381,Docosahexaenoic,14.4366508017,FA
+F_110,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.8875076312650381,Eicosapentaenoic,8.3769462063,FA
+F_110,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.8875076312650381,Arachidonic,0.9359319879,FA
+F_114,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.8702070272634495,w3,24.2976966997,FA index
+F_114,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.8702070272634495,w6,13.506623128599998,FA index
+F_114,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.8702070272634495,SFA,17.8606315674,FA index
+F_114,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.8702070272634495,MFA,51.89319595090001,FA index
+F_114,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.8702070272634495,PUFA,30.246172481700004,FA index
+F_114,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.8702070272634495,Oleic,36.119057334,FA
+F_114,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.8702070272634495,Linoleic,12.1140017628,FA
+F_114,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.8702070272634495,Linolenic,4.5558544162,FA
+F_114,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.8702070272634495,Docosahexaenoic,6.6412700648,FA
+F_114,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.8702070272634495,Eicosapentaenoic,5.3276343825,FA
+F_114,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.8702070272634495,Arachidonic,0.2832544738,FA
+F_117,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.766670459717797,w3,14.5050827302,FA index
+F_117,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.766670459717797,w6,2.7581443242999995,FA index
+F_117,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.766670459717797,SFA,36.3943555672,FA index
+F_117,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.766670459717797,MFA,47.29902761020001,FA index
+F_117,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.766670459717797,PUFA,16.3066168224,FA index
+F_117,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.766670459717797,Oleic,14.8446720847,FA
+F_117,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.766670459717797,Linoleic,1.4852806913,FA
+F_117,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.766670459717797,Linolenic,0.5286704592,FA
+F_117,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.766670459717797,Docosahexaenoic,7.2873977195,FA
+F_117,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.766670459717797,Eicosapentaenoic,5.4207880407,FA
+F_117,Q419,Olderfjord,Olderfjord,Control,male,immature,3,0.766670459717797,Arachidonic,0.6403675149,FA
+F_120,Q419,Olderfjord,Olderfjord,Control,female,mature,4,0.7610141579073937,w3,17.2041109755,FA index
+F_120,Q419,Olderfjord,Olderfjord,Control,female,mature,4,0.7610141579073937,w6,3.5772575048,FA index
+F_120,Q419,Olderfjord,Olderfjord,Control,female,mature,4,0.7610141579073937,SFA,30.484606456899996,FA index
+F_120,Q419,Olderfjord,Olderfjord,Control,female,mature,4,0.7610141579073937,MFA,49.5949150609,FA index
+F_120,Q419,Olderfjord,Olderfjord,Control,female,mature,4,0.7610141579073937,PUFA,19.920478482,FA index
+F_120,Q419,Olderfjord,Olderfjord,Control,female,mature,4,0.7610141579073937,Oleic,14.0749715794,FA
+F_120,Q419,Olderfjord,Olderfjord,Control,female,mature,4,0.7610141579073937,Linoleic,2.0927525719,FA
+F_120,Q419,Olderfjord,Olderfjord,Control,female,mature,4,0.7610141579073937,Linolenic,1.2318625736,FA
+F_120,Q419,Olderfjord,Olderfjord,Control,female,mature,4,0.7610141579073937,Docosahexaenoic,9.0159605159,FA
+F_120,Q419,Olderfjord,Olderfjord,Control,female,mature,4,0.7610141579073937,Eicosapentaenoic,5.9394921364,FA
+F_120,Q419,Olderfjord,Olderfjord,Control,female,mature,4,0.7610141579073937,Arachidonic,0.2349950102,FA
+F_127,Q419,Olderfjord,Olderfjord,Control,female,immature,4,0.7289692374981775,w3,25.7965866997,FA index
+F_127,Q419,Olderfjord,Olderfjord,Control,female,immature,4,0.7289692374981775,w6,4.5573953561,FA index
+F_127,Q419,Olderfjord,Olderfjord,Control,female,immature,4,0.7289692374981775,SFA,29.2546065288,FA index
+F_127,Q419,Olderfjord,Olderfjord,Control,female,immature,4,0.7289692374981775,MFA,41.7800719416,FA index
+F_127,Q419,Olderfjord,Olderfjord,Control,female,immature,4,0.7289692374981775,PUFA,28.9653215299,FA index
+F_127,Q419,Olderfjord,Olderfjord,Control,female,immature,4,0.7289692374981775,Oleic,14.1071671751,FA
+F_127,Q419,Olderfjord,Olderfjord,Control,female,immature,4,0.7289692374981775,Linoleic,2.1098324104,FA
+F_127,Q419,Olderfjord,Olderfjord,Control,female,immature,4,0.7289692374981775,Linolenic,0.7211718845,FA
+F_127,Q419,Olderfjord,Olderfjord,Control,female,immature,4,0.7289692374981775,Docosahexaenoic,13.0267525978,FA
+F_127,Q419,Olderfjord,Olderfjord,Control,female,immature,4,0.7289692374981775,Eicosapentaenoic,10.3642807317,FA
+F_127,Q419,Olderfjord,Olderfjord,Control,female,immature,4,0.7289692374981775,Arachidonic,1.0880494069,FA
+F_132,Q419,Olderfjord,Olderfjord,Control,female,mature,6,0.7763675630756711,w3,21.0554458934,FA index
+F_132,Q419,Olderfjord,Olderfjord,Control,female,mature,6,0.7763675630756711,w6,3.7169982529,FA index
+F_132,Q419,Olderfjord,Olderfjord,Control,female,mature,6,0.7763675630756711,SFA,30.9201653037,FA index
+F_132,Q419,Olderfjord,Olderfjord,Control,female,mature,6,0.7763675630756711,MFA,45.477500906,FA index
+F_132,Q419,Olderfjord,Olderfjord,Control,female,mature,6,0.7763675630756711,PUFA,23.6023337904,FA index
+F_132,Q419,Olderfjord,Olderfjord,Control,female,mature,6,0.7763675630756711,Oleic,13.9642294958,FA
+F_132,Q419,Olderfjord,Olderfjord,Control,female,mature,6,0.7763675630756711,Linoleic,2.0514506272,FA
+F_132,Q419,Olderfjord,Olderfjord,Control,female,mature,6,0.7763675630756711,Linolenic,0.8813402713,FA
+F_132,Q419,Olderfjord,Olderfjord,Control,female,mature,6,0.7763675630756711,Docosahexaenoic,13.1798823858,FA
+F_132,Q419,Olderfjord,Olderfjord,Control,female,mature,6,0.7763675630756711,Eicosapentaenoic,5.6583857663,FA
+F_132,Q419,Olderfjord,Olderfjord,Control,female,mature,6,0.7763675630756711,Arachidonic,0.3273925648,FA
+F_134,Q419,Olderfjord,Olderfjord,Control,female,mature,5,1.11620005013325,w3,18.7012544866,FA index
+F_134,Q419,Olderfjord,Olderfjord,Control,female,mature,5,1.11620005013325,w6,3.4787576460000005,FA index
+F_134,Q419,Olderfjord,Olderfjord,Control,female,mature,5,1.11620005013325,SFA,31.824748162099997,FA index
+F_134,Q419,Olderfjord,Olderfjord,Control,female,mature,5,1.11620005013325,MFA,47.0496122859,FA index
+F_134,Q419,Olderfjord,Olderfjord,Control,female,mature,5,1.11620005013325,PUFA,21.1256395519,FA index
+F_134,Q419,Olderfjord,Olderfjord,Control,female,mature,5,1.11620005013325,Oleic,18.328786152,FA
+F_134,Q419,Olderfjord,Olderfjord,Control,female,mature,5,1.11620005013325,Linoleic,2.0056431305,FA
+F_134,Q419,Olderfjord,Olderfjord,Control,female,mature,5,1.11620005013325,Linolenic,0.9512705498,FA
+F_134,Q419,Olderfjord,Olderfjord,Control,female,mature,5,1.11620005013325,Docosahexaenoic,10.6412058981,FA
+F_134,Q419,Olderfjord,Olderfjord,Control,female,mature,5,1.11620005013325,Eicosapentaenoic,5.9234886501,FA
+F_134,Q419,Olderfjord,Olderfjord,Control,female,mature,5,1.11620005013325,Arachidonic,0.3067222512,FA
+F_136,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.9513370326181604,w3,27.8271368452,FA index
+F_136,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.9513370326181604,w6,4.8056882402,FA index
+F_136,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.9513370326181604,SFA,25.303686432800003,FA index
+F_136,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.9513370326181604,MFA,43.1969016554,FA index
+F_136,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.9513370326181604,PUFA,31.499411911800003,FA index
+F_136,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.9513370326181604,Oleic,16.1520692108,FA
+F_136,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.9513370326181604,Linoleic,1.9520464773,FA
+F_136,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.9513370326181604,Linolenic,0.8186333037,FA
+F_136,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.9513370326181604,Docosahexaenoic,14.8529255097,FA
+F_136,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.9513370326181604,Eicosapentaenoic,10.7308779143,FA
+F_136,Q419,Olderfjord,Olderfjord,Control,female,mature,5,0.9513370326181604,Arachidonic,0.9297211985,FA
+F_140,Q419,Olderfjord,Olderfjord,Control,male,immature,6,0.892497384519799,w3,24.8650862948,FA index
+F_140,Q419,Olderfjord,Olderfjord,Control,male,immature,6,0.892497384519799,w6,4.505609997500001,FA index
+F_140,Q419,Olderfjord,Olderfjord,Control,male,immature,6,0.892497384519799,SFA,26.950979238699997,FA index
+F_140,Q419,Olderfjord,Olderfjord,Control,male,immature,6,0.892497384519799,MFA,44.86710679709999,FA index
+F_140,Q419,Olderfjord,Olderfjord,Control,male,immature,6,0.892497384519799,PUFA,28.1819139644,FA index
+F_140,Q419,Olderfjord,Olderfjord,Control,male,immature,6,0.892497384519799,Oleic,14.6992784924,FA
+F_140,Q419,Olderfjord,Olderfjord,Control,male,immature,6,0.892497384519799,Linoleic,2.0047813547,FA
+F_140,Q419,Olderfjord,Olderfjord,Control,male,immature,6,0.892497384519799,Linolenic,0.8159990268,FA
+F_140,Q419,Olderfjord,Olderfjord,Control,male,immature,6,0.892497384519799,Docosahexaenoic,10.5590296435,FA
+F_140,Q419,Olderfjord,Olderfjord,Control,male,immature,6,0.892497384519799,Eicosapentaenoic,11.9394151757,FA
+F_140,Q419,Olderfjord,Olderfjord,Control,male,immature,6,0.892497384519799,Arachidonic,0.820645075,FA
+F_147,Q220,Frakkfjord,Frakkfjord,Control,female,mature,10,1.111878862061477,w3,2.6334298446,FA index
+F_147,Q220,Frakkfjord,Frakkfjord,Control,female,mature,10,1.111878862061477,w6,2.1241946768999997,FA index
+F_147,Q220,Frakkfjord,Frakkfjord,Control,female,mature,10,1.111878862061477,SFA,39.624823274799994,FA index
+F_147,Q220,Frakkfjord,Frakkfjord,Control,female,mature,10,1.111878862061477,MFA,56.4734058821,FA index
+F_147,Q220,Frakkfjord,Frakkfjord,Control,female,mature,10,1.111878862061477,PUFA,3.9017708431,FA index
+F_147,Q220,Frakkfjord,Frakkfjord,Control,female,mature,10,1.111878862061477,Oleic,26.0501535788,FA
+F_147,Q220,Frakkfjord,Frakkfjord,Control,female,mature,10,1.111878862061477,Linoleic,1.0747524605,FA
+F_147,Q220,Frakkfjord,Frakkfjord,Control,female,mature,10,1.111878862061477,Linolenic,0.2188987821,FA
+F_147,Q220,Frakkfjord,Frakkfjord,Control,female,mature,10,1.111878862061477,Docosahexaenoic,0.8695752441,FA
+F_147,Q220,Frakkfjord,Frakkfjord,Control,female,mature,10,1.111878862061477,Eicosapentaenoic,0.6026669415,FA
+F_147,Q220,Frakkfjord,Frakkfjord,Control,female,mature,10,1.111878862061477,Arachidonic,0.1757945108,FA
+F_187,Q220,Frakkfjord,Frakkfjord,Control,female,mature,7,0.8296296296296296,w3,24.125499505,FA index
+F_187,Q220,Frakkfjord,Frakkfjord,Control,female,mature,7,0.8296296296296296,w6,4.1642489929,FA index
+F_187,Q220,Frakkfjord,Frakkfjord,Control,female,mature,7,0.8296296296296296,SFA,29.80975275,FA index
+F_187,Q220,Frakkfjord,Frakkfjord,Control,female,mature,7,0.8296296296296296,MFA,42.959011324600006,FA index
+F_187,Q220,Frakkfjord,Frakkfjord,Control,female,mature,7,0.8296296296296296,PUFA,27.2312359253,FA index
+F_187,Q220,Frakkfjord,Frakkfjord,Control,female,mature,7,0.8296296296296296,Oleic,18.3764931605,FA
+F_187,Q220,Frakkfjord,Frakkfjord,Control,female,mature,7,0.8296296296296296,Linoleic,2.3995768642,FA
+F_187,Q220,Frakkfjord,Frakkfjord,Control,female,mature,7,0.8296296296296296,Linolenic,1.3410642916,FA
+F_187,Q220,Frakkfjord,Frakkfjord,Control,female,mature,7,0.8296296296296296,Docosahexaenoic,13.4175380436,FA
+F_187,Q220,Frakkfjord,Frakkfjord,Control,female,mature,7,0.8296296296296296,Eicosapentaenoic,8.1929941461,FA
+F_187,Q220,Frakkfjord,Frakkfjord,Control,female,mature,7,0.8296296296296296,Arachidonic,0.4628017898,FA
+F_19,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,10,0.829284094590217,w3,33.562224613699996,FA index
+F_19,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,10,0.829284094590217,w6,6.2637272371,FA index
+F_19,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,10,0.829284094590217,SFA,29.3186330595,FA index
+F_19,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,10,0.829284094590217,MFA,32.9341945031,FA index
+F_19,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,10,0.829284094590217,PUFA,37.7471724373,FA index
+F_19,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,10,0.829284094590217,Oleic,22.3570874774,FA
+F_19,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,10,0.829284094590217,Linoleic,2.3859128721,FA
+F_19,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,10,0.829284094590217,Linolenic,0.3071334586,FA
+F_19,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,10,0.829284094590217,Docosahexaenoic,21.1506472879,FA
+F_19,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,10,0.829284094590217,Eicosapentaenoic,9.8516538517,FA
+F_19,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,10,0.829284094590217,Arachidonic,0.5364660035,FA
+F_195,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.7307927762473218,w3,22.7028954629,FA index
+F_195,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.7307927762473218,w6,4.4549748403,FA index
+F_195,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.7307927762473218,SFA,24.6902764598,FA index
+F_195,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.7307927762473218,MFA,49.87421207679999,FA index
+F_195,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.7307927762473218,PUFA,25.4355114634,FA index
+F_195,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.7307927762473218,Oleic,16.720707032300002,FA
+F_195,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.7307927762473218,Linoleic,2.4246237206,FA
+F_195,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.7307927762473218,Linolenic,0.7022648808,FA
+F_195,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.7307927762473218,Docosahexaenoic,12.5420272862,FA
+F_195,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.7307927762473218,Eicosapentaenoic,7.509535624,FA
+F_195,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.7307927762473218,Arachidonic,0.8063669607,FA
+F_198,Q220,Frakkfjord,Frakkfjord,Control,male,mature,7,0.9244444444444444,w3,21.7703635961,FA index
+F_198,Q220,Frakkfjord,Frakkfjord,Control,male,mature,7,0.9244444444444444,w6,3.8974622211,FA index
+F_198,Q220,Frakkfjord,Frakkfjord,Control,male,mature,7,0.9244444444444444,SFA,29.6557081742,FA index
+F_198,Q220,Frakkfjord,Frakkfjord,Control,male,mature,7,0.9244444444444444,MFA,45.3966045659,FA index
+F_198,Q220,Frakkfjord,Frakkfjord,Control,male,mature,7,0.9244444444444444,PUFA,24.9476872598,FA index
+F_198,Q220,Frakkfjord,Frakkfjord,Control,male,mature,7,0.9244444444444444,Oleic,20.0717226534,FA
+F_198,Q220,Frakkfjord,Frakkfjord,Control,male,mature,7,0.9244444444444444,Linoleic,1.4949388173,FA
+F_198,Q220,Frakkfjord,Frakkfjord,Control,male,mature,7,0.9244444444444444,Linolenic,0.7748002599,FA
+F_198,Q220,Frakkfjord,Frakkfjord,Control,male,mature,7,0.9244444444444444,Docosahexaenoic,13.6599903396,FA
+F_198,Q220,Frakkfjord,Frakkfjord,Control,male,mature,7,0.9244444444444444,Eicosapentaenoic,6.1718561825,FA
+F_198,Q220,Frakkfjord,Frakkfjord,Control,male,mature,7,0.9244444444444444,Arachidonic,1.0942913412,FA
+F_201,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,8,0.7696686841717635,w3,25.1449398215,FA index
+F_201,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,8,0.7696686841717635,w6,16.014224894899996,FA index
+F_201,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,8,0.7696686841717635,SFA,15.774921127599995,FA index
+F_201,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,8,0.7696686841717635,MFA,50.8588746315,FA index
+F_201,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,8,0.7696686841717635,PUFA,33.366204240799995,FA index
+F_201,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,8,0.7696686841717635,Oleic,42.8038785037,FA
+F_201,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,8,0.7696686841717635,Linoleic,14.7603114298,FA
+F_201,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,8,0.7696686841717635,Linolenic,6.9673509542,FA
+F_201,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,8,0.7696686841717635,Docosahexaenoic,5.2966167375,FA
+F_201,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,8,0.7696686841717635,Eicosapentaenoic,4.9318100264,FA
+F_201,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,8,0.7696686841717635,Arachidonic,0.3317789569,FA
+F_202,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,3,1.0395328477080128,w3,47.75859941939999,FA index
+F_202,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,3,1.0395328477080128,w6,31.2232185068,FA index
+F_202,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,3,1.0395328477080128,SFA,24.9037847159,FA index
+F_202,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,3,1.0395328477080128,MFA,13.8122484198,FA index
+F_202,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,3,1.0395328477080128,PUFA,61.28396686439999,FA index
+F_202,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,3,1.0395328477080128,Oleic,0.8914238741,FA
+F_202,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,3,1.0395328477080128,Linoleic,28.6367171667,FA
+F_202,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,3,1.0395328477080128,Linolenic,10.9388661049,FA
+F_202,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,3,1.0395328477080128,Docosahexaenoic,9.3508741565,FA
+F_202,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,3,1.0395328477080128,Eicosapentaenoic,9.448312774,FA
+F_202,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,3,1.0395328477080128,Arachidonic,0.699823095,FA
+F_204,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,6,0.8597408315773171,w3,22.2079989827,FA index
+F_204,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,6,0.8597408315773171,w6,8.792441691899999,FA index
+F_204,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,6,0.8597408315773171,SFA,22.2849819279,FA index
+F_204,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,6,0.8597408315773171,MFA,51.1182650123,FA index
+F_204,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,6,0.8597408315773171,PUFA,26.5967530594,FA index
+F_204,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,6,0.8597408315773171,Oleic,22.3709060423,FA
+F_204,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,6,0.8597408315773171,Linoleic,7.0317859175,FA
+F_204,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,6,0.8597408315773171,Linolenic,2.6280983023,FA
+F_204,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,6,0.8597408315773171,Docosahexaenoic,8.6808049966,FA
+F_204,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,6,0.8597408315773171,Eicosapentaenoic,6.4059163782,FA
+F_204,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,6,0.8597408315773171,Arachidonic,0.3548432344,FA
+F_206,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8218589457402558,w3,14.5733914827,FA index
+F_206,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8218589457402558,w6,6.6950013182,FA index
+F_206,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8218589457402558,SFA,34.49092452399999,FA index
+F_206,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8218589457402558,MFA,47.2072390718,FA index
+F_206,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8218589457402558,PUFA,18.3018364041,FA index
+F_206,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8218589457402558,Oleic,21.5510748643,FA
+F_206,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8218589457402558,Linoleic,4.7134553529,FA
+F_206,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8218589457402558,Linolenic,1.7468989561,FA
+F_206,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8218589457402558,Docosahexaenoic,6.8658174556,FA
+F_206,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8218589457402558,Eicosapentaenoic,2.6045424191,FA
+F_206,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8218589457402558,Arachidonic,0.3034221712,FA
+F_207,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,1.027342552697875,w3,28.649952328100003,FA index
+F_207,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,1.027342552697875,w6,18.775449772200002,FA index
+F_207,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,1.027342552697875,SFA,16.961611532,FA index
+F_207,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,1.027342552697875,MFA,46.1849681823,FA index
+F_207,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,1.027342552697875,PUFA,36.853420286,FA index
+F_207,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,1.027342552697875,Oleic,38.2574485123,FA
+F_207,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,1.027342552697875,Linoleic,17.2283882452,FA
+F_207,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,1.027342552697875,Linolenic,6.6564064309,FA
+F_207,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,1.027342552697875,Docosahexaenoic,5.9799779405,FA
+F_207,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,1.027342552697875,Eicosapentaenoic,5.2703045002,FA
+F_207,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,4,1.027342552697875,Arachidonic,0.3673141968,FA
+F_212,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,5,1.055803845996146,w3,13.7169726713,FA index
+F_212,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,5,1.055803845996146,w6,0.8049767873000001,FA index
+F_212,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,5,1.055803845996146,SFA,18.0143261103,FA index
+F_212,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,5,1.055803845996146,MFA,58.9916648921,FA index
+F_212,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,5,1.055803845996146,PUFA,22.994008997699996,FA index
+F_212,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,5,1.055803845996146,Oleic,49.5565622782,FA
+F_212,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,5,1.055803845996146,Linoleic,0.0329984747,FA
+F_212,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,5,1.055803845996146,Linolenic,8.5050580138,FA
+F_212,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,5,1.055803845996146,Docosahexaenoic,7.1148492673,FA
+F_212,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,5,1.055803845996146,Eicosapentaenoic,6.3185438663,FA
+F_212,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,5,1.055803845996146,Arachidonic,0.5011280607,FA
+F_213,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,4,0.9093232661199092,w3,27.694998579599996,FA index
+F_213,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,4,0.9093232661199092,w6,17.781325318799997,FA index
+F_213,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,4,0.9093232661199092,SFA,16.218349007999997,FA index
+F_213,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,4,0.9093232661199092,MFA,48.33985780969999,FA index
+F_213,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,4,0.9093232661199092,PUFA,35.441793182199994,FA index
+F_213,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,4,0.9093232661199092,Oleic,39.9657748849,FA
+F_213,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,4,0.9093232661199092,Linoleic,16.4625407249,FA
+F_213,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,4,0.9093232661199092,Linolenic,6.4280100087,FA
+F_213,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,4,0.9093232661199092,Docosahexaenoic,6.3273258103,FA
+F_213,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,4,0.9093232661199092,Eicosapentaenoic,4.7571551329,FA
+F_213,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,4,0.9093232661199092,Arachidonic,0.3362322306,FA
+F_214,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.9349087191951878,w3,29.545139882699996,FA index
+F_214,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.9349087191951878,w6,19.3989837157,FA index
+F_214,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.9349087191951878,SFA,17.624188335799996,FA index
+F_214,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.9349087191951878,MFA,43.700051191300005,FA index
+F_214,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.9349087191951878,PUFA,38.675760472899995,FA index
+F_214,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.9349087191951878,Oleic,36.4810988468,FA
+F_214,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.9349087191951878,Linoleic,17.8963981046,FA
+F_214,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.9349087191951878,Linolenic,7.6280349791,FA
+F_214,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.9349087191951878,Docosahexaenoic,6.4542843007,FA
+F_214,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.9349087191951878,Eicosapentaenoic,5.0099846603,FA
+F_214,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.9349087191951878,Arachidonic,0.4202590735,FA
+F_217,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,1.0303999182942796,w3,31.752627937300005,FA index
+F_217,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,1.0303999182942796,w6,17.504222956800003,FA index
+F_217,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,1.0303999182942796,SFA,18.1071968387,FA index
+F_217,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,1.0303999182942796,MFA,42.2655311991,FA index
+F_217,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,1.0303999182942796,PUFA,39.6272719625,FA index
+F_217,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,1.0303999182942796,Oleic,33.6590927654,FA
+F_217,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,1.0303999182942796,Linoleic,15.8814203933,FA
+F_217,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,1.0303999182942796,Linolenic,6.2518414617,FA
+F_217,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,1.0303999182942796,Docosahexaenoic,9.1066648257,FA
+F_217,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,1.0303999182942796,Eicosapentaenoic,6.5952678055,FA
+F_217,Q220,Bergsfjord,Bergsfjord,Impact,female,immature,3,1.0303999182942796,Arachidonic,0.4824704518,FA
+F_218,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.9546434674265208,w3,28.3438973191,FA index
+F_218,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.9546434674265208,w6,17.68254191,FA index
+F_218,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.9546434674265208,SFA,18.468333951899996,FA index
+F_218,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.9546434674265208,MFA,44.8150630169,FA index
+F_218,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.9546434674265208,PUFA,36.716603031400005,FA index
+F_218,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.9546434674265208,Oleic,33.5788544135,FA
+F_218,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.9546434674265208,Linoleic,16.117122918,FA
+F_218,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.9546434674265208,Linolenic,6.8072867203,FA
+F_218,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.9546434674265208,Docosahexaenoic,6.5785494925,FA
+F_218,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.9546434674265208,Eicosapentaenoic,5.4790350586,FA
+F_218,Q220,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.9546434674265208,Arachidonic,0.4769516611,FA
+F_220,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.8157566659881946,w3,16.602694622599998,FA index
+F_220,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.8157566659881946,w6,3.667018218900001,FA index
+F_220,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.8157566659881946,SFA,27.137809422100005,FA index
+F_220,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.8157566659881946,MFA,53.86183221789999,FA index
+F_220,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.8157566659881946,PUFA,19.00035836,FA index
+F_220,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.8157566659881946,Oleic,22.5968157929,FA
+F_220,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.8157566659881946,Linoleic,1.9530010637,FA
+F_220,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.8157566659881946,Linolenic,0.6836465822,FA
+F_220,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.8157566659881946,Docosahexaenoic,9.0112000944,FA
+F_220,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.8157566659881946,Eicosapentaenoic,5.4052333819,FA
+F_220,Q220,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.8157566659881946,Arachidonic,0.6275940412,FA
+F_225,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.7630284256559767,w3,11.5271884555,FA index
+F_225,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.7630284256559767,w6,3.5061060242000006,FA index
+F_225,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.7630284256559767,SFA,39.712698733500005,FA index
+F_225,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.7630284256559767,MFA,46.6362241254,FA index
+F_225,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.7630284256559767,PUFA,13.6510771411,FA index
+F_225,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.7630284256559767,Oleic,15.9557631743,FA
+F_225,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.7630284256559767,Linoleic,1.9143968517,FA
+F_225,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.7630284256559767,Linolenic,0.5321795131,FA
+F_225,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.7630284256559767,Docosahexaenoic,5.8686148647,FA
+F_225,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.7630284256559767,Eicosapentaenoic,3.4958649249,FA
+F_225,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.7630284256559767,Arachidonic,0.7699410959,FA
+F_226,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9793856803320118,w3,5.5392850845999995,FA index
+F_226,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9793856803320118,w6,2.7764258154,FA index
+F_226,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9793856803320118,SFA,38.5805249859,FA index
+F_226,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9793856803320118,MFA,54.5153592442,FA index
+F_226,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9793856803320118,PUFA,6.904115769900001,FA index
+F_226,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9793856803320118,Oleic,16.497610804,FA
+F_226,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9793856803320118,Linoleic,1.8420852172,FA
+F_226,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9793856803320118,Linolenic,0.4304900871,FA
+F_226,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9793856803320118,Docosahexaenoic,1.9392244203,FA
+F_226,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9793856803320118,Eicosapentaenoic,1.55158433,FA
+F_226,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9793856803320118,Arachidonic,0.2782010331,FA
+F_238,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.8660567658935933,w3,14.1723240821,FA index
+F_238,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.8660567658935933,w6,5.2404998816,FA index
+F_238,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.8660567658935933,SFA,43.0066573877,FA index
+F_238,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.8660567658935933,MFA,39.1427691147,FA index
+F_238,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.8660567658935933,PUFA,17.8505734976,FA index
+F_238,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.8660567658935933,Oleic,14.0780005827,FA
+F_238,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.8660567658935933,Linoleic,2.038773552,FA
+F_238,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.8660567658935933,Linolenic,0.4765230859,FA
+F_238,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.8660567658935933,Docosahexaenoic,5.3716425511,FA
+F_238,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.8660567658935933,Eicosapentaenoic,6.3985182918,FA
+F_238,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.8660567658935933,Arachidonic,1.855248592,FA
+F_239,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.8757201646090536,w3,12.572896838499998,FA index
+F_239,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.8757201646090536,w6,4.5267698336999995,FA index
+F_239,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.8757201646090536,SFA,35.2519709567,FA index
+F_239,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.8757201646090536,MFA,49.09011513589999,FA index
+F_239,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.8757201646090536,PUFA,15.6579139075,FA index
+F_239,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.8757201646090536,Oleic,21.5013098445,FA
+F_239,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.8757201646090536,Linoleic,2.1118888068,FA
+F_239,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.8757201646090536,Linolenic,0.6701360421,FA
+F_239,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.8757201646090536,Docosahexaenoic,2.0797590032,FA
+F_239,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.8757201646090536,Eicosapentaenoic,8.0864855997,FA
+F_239,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.8757201646090536,Arachidonic,0.9534258726,FA
+F_244,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9055806406983032,w3,16.100700557899998,FA index
+F_244,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9055806406983032,w6,4.450443645299999,FA index
+F_244,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9055806406983032,SFA,46.3323099154,FA index
+F_244,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9055806406983032,MFA,34.533352894100005,FA index
+F_244,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9055806406983032,PUFA,19.1343371904,FA index
+F_244,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9055806406983032,Oleic,12.1662575141,FA
+F_244,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9055806406983032,Linoleic,1.8966110336,FA
+F_244,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9055806406983032,Linolenic,0.4798040208,FA
+F_244,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9055806406983032,Docosahexaenoic,9.5519010154,FA
+F_244,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9055806406983032,Eicosapentaenoic,4.3095379528,FA
+F_244,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.9055806406983032,Arachidonic,1.714498271,FA
+F_245,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.828125,w3,8.1075702993,FA index
+F_245,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.828125,w6,3.2348569379,FA index
+F_245,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.828125,SFA,55.3995300864,FA index
+F_245,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.828125,MFA,34.17178329159999,FA index
+F_245,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.828125,PUFA,10.428686622,FA index
+F_245,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.828125,Oleic,12.3031042317,FA
+F_245,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.828125,Linoleic,1.1472038031,FA
+F_245,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.828125,Linolenic,0.2334631879,FA
+F_245,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.828125,Docosahexaenoic,3.8438538232,FA
+F_245,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.828125,Eicosapentaenoic,2.8731193429,FA
+F_245,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.828125,Arachidonic,1.5350191775,FA
+F_246,Q320,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8739189804278562,w3,2.9488429806000003,FA index
+F_246,Q320,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8739189804278562,w6,2.1538639958,FA index
+F_246,Q320,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8739189804278562,SFA,47.355058572299995,FA index
+F_246,Q320,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8739189804278562,MFA,48.720321449,FA index
+F_246,Q320,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8739189804278562,PUFA,3.924619979,FA index
+F_246,Q320,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8739189804278562,Oleic,13.1809701124,FA
+F_246,Q320,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8739189804278562,Linoleic,1.453944994,FA
+F_246,Q320,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8739189804278562,Linolenic,0.2758579966,FA
+F_246,Q320,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8739189804278562,Docosahexaenoic,0.5655417741,FA
+F_246,Q320,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8739189804278562,Eicosapentaenoic,0.7039675696,FA
+F_246,Q320,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8739189804278562,Arachidonic,0.1233468254,FA
+F_248,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7689963871679169,w3,17.4960199179,FA index
+F_248,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7689963871679169,w6,4.7814047788,FA index
+F_248,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7689963871679169,SFA,38.96289099999999,FA index
+F_248,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7689963871679169,MFA,40.55660384670001,FA index
+F_248,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7689963871679169,PUFA,20.4805051533,FA index
+F_248,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7689963871679169,Oleic,11.083007994999999,FA
+F_248,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7689963871679169,Linoleic,2.7268395019,FA
+F_248,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7689963871679169,Linolenic,0.9299199585,FA
+F_248,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7689963871679169,Docosahexaenoic,9.4456980714,FA
+F_248,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7689963871679169,Eicosapentaenoic,5.1527284471,FA
+F_248,Q320,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7689963871679169,Arachidonic,0.691610393,FA
+F_252,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8705218220977188,w3,6.5610458565,FA index
+F_252,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8705218220977188,w6,3.3493001966,FA index
+F_252,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8705218220977188,SFA,50.0888947915,FA index
+F_252,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8705218220977188,MFA,40.822239921000005,FA index
+F_252,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8705218220977188,PUFA,9.0888652874,FA index
+F_252,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8705218220977188,Oleic,14.4175358136,FA
+F_252,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8705218220977188,Linoleic,1.1424525733,FA
+F_252,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8705218220977188,Linolenic,0.3209718076,FA
+F_252,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8705218220977188,Docosahexaenoic,2.2277287858,FA
+F_252,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8705218220977188,Eicosapentaenoic,2.647438809,FA
+F_252,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8705218220977188,Arachidonic,0.9933261872,FA
+F_253,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.9133610833233808,w3,7.507475418,FA index
+F_253,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.9133610833233808,w6,4.4301483796999985,FA index
+F_253,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.9133610833233808,SFA,51.03879967620001,FA index
+F_253,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.9133610833233808,MFA,38.5782973355,FA index
+F_253,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.9133610833233808,PUFA,10.3829029883,FA index
+F_253,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.9133610833233808,Oleic,11.4746073108,FA
+F_253,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.9133610833233808,Linoleic,1.9808513279,FA
+F_253,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.9133610833233808,Linolenic,0.4261305185,FA
+F_253,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.9133610833233808,Docosahexaenoic,1.7804910115,FA
+F_253,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.9133610833233808,Eicosapentaenoic,3.2092007229,FA
+F_253,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,5,0.9133610833233808,Arachidonic,0.7564321758,FA
+F_254,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.988709593953286,w3,17.7729087269,FA index
+F_254,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.988709593953286,w6,5.8217316499,FA index
+F_254,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.988709593953286,SFA,48.24183783299999,FA index
+F_254,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.988709593953286,MFA,29.696226281700003,FA index
+F_254,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.988709593953286,PUFA,22.0619358855,FA index
+F_254,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.988709593953286,Oleic,11.1163865953,FA
+F_254,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.988709593953286,Linoleic,1.9960130448,FA
+F_254,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.988709593953286,Linolenic,0.4633085535,FA
+F_254,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.988709593953286,Docosahexaenoic,8.1432192197,FA
+F_254,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.988709593953286,Eicosapentaenoic,6.8323607311,FA
+F_254,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.988709593953286,Arachidonic,2.6788440991,FA
+F_260,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.930428249436514,w3,0.9669359543,FA index
+F_260,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.930428249436514,w6,1.7177631591000002,FA index
+F_260,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.930428249436514,SFA,49.60376505829999,FA index
+F_260,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.930428249436514,MFA,48.4142720954,FA index
+F_260,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.930428249436514,PUFA,1.9819628464000003,FA index
+F_260,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.930428249436514,Oleic,17.3033944059,FA
+F_260,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.930428249436514,Linoleic,0.7768307516,FA
+F_260,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.930428249436514,Linolenic,0.0740944846,FA
+F_260,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.930428249436514,Docosahexaenoic,0.0556244221,FA
+F_260,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.930428249436514,Eicosapentaenoic,0.1211160973,FA
+F_260,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,4,0.930428249436514,Arachidonic,0.0198802747,FA
+F_291,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.7352742684375337,w3,15.3932839147,FA index
+F_291,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.7352742684375337,w6,4.402321173,FA index
+F_291,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.7352742684375337,SFA,57.2604066248,FA index
+F_291,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.7352742684375337,MFA,23.300539046499996,FA index
+F_291,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.7352742684375337,PUFA,19.439054328700003,FA index
+F_291,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.7352742684375337,Oleic,8.7660955612,FA
+F_291,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.7352742684375337,Linoleic,0.5319454963,FA
+F_291,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.7352742684375337,Linolenic,0.1753947373,FA
+F_291,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.7352742684375337,Docosahexaenoic,9.2733355257,FA
+F_291,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.7352742684375337,Eicosapentaenoic,5.4202190265,FA
+F_291,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,7,0.7352742684375337,Arachidonic,3.1947006412,FA
+F_292,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7342619587517547,w3,4.681321953199999,FA index
+F_292,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7342619587517547,w6,2.1653019124999995,FA index
+F_292,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7342619587517547,SFA,51.2528326404,FA index
+F_292,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7342619587517547,MFA,42.8992263872,FA index
+F_292,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7342619587517547,PUFA,5.8479409724,FA index
+F_292,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7342619587517547,Oleic,11.6938483253,FA
+F_292,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7342619587517547,Linoleic,1.4363416932,FA
+F_292,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7342619587517547,Linolenic,0.4376587999,FA
+F_292,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7342619587517547,Docosahexaenoic,2.1388120375,FA
+F_292,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7342619587517547,Eicosapentaenoic,0.8274732022,FA
+F_292,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,3,0.7342619587517547,Arachidonic,0.1861396403,FA
+F_293,Q420,Bergsfjord,Bergsfjord,Impact,male,mature,11,0.7345779016557955,w3,2.5437735582,FA index
+F_293,Q420,Bergsfjord,Bergsfjord,Impact,male,mature,11,0.7345779016557955,w6,2.5145036697000003,FA index
+F_293,Q420,Bergsfjord,Bergsfjord,Impact,male,mature,11,0.7345779016557955,SFA,41.444065739600006,FA index
+F_293,Q420,Bergsfjord,Bergsfjord,Impact,male,mature,11,0.7345779016557955,MFA,54.58493557319999,FA index
+F_293,Q420,Bergsfjord,Bergsfjord,Impact,male,mature,11,0.7345779016557955,PUFA,3.9709986871,FA index
+F_293,Q420,Bergsfjord,Bergsfjord,Impact,male,mature,11,0.7345779016557955,Oleic,22.6775235532,FA
+F_293,Q420,Bergsfjord,Bergsfjord,Impact,male,mature,11,0.7345779016557955,Linoleic,1.4858235318,FA
+F_293,Q420,Bergsfjord,Bergsfjord,Impact,male,mature,11,0.7345779016557955,Linolenic,0.398544991,FA
+F_293,Q420,Bergsfjord,Bergsfjord,Impact,male,mature,11,0.7345779016557955,Docosahexaenoic,0.4822866553,FA
+F_293,Q420,Bergsfjord,Bergsfjord,Impact,male,mature,11,0.7345779016557955,Eicosapentaenoic,0.5286750177,FA
+F_293,Q420,Bergsfjord,Bergsfjord,Impact,male,mature,11,0.7345779016557955,Arachidonic,0.0492175628,FA
+F_294,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8380446345164234,w3,22.4776450089,FA index
+F_294,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8380446345164234,w6,6.112129048299999,FA index
+F_294,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8380446345164234,SFA,46.9264389586,FA index
+F_294,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8380446345164234,MFA,25.1723199753,FA index
+F_294,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8380446345164234,PUFA,27.901241066,FA index
+F_294,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8380446345164234,Oleic,8.3872188039,FA
+F_294,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8380446345164234,Linoleic,1.0969836877,FA
+F_294,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8380446345164234,Linolenic,0.4084506965,FA
+F_294,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8380446345164234,Docosahexaenoic,13.7137402409,FA
+F_294,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8380446345164234,Eicosapentaenoic,7.1544495804,FA
+F_294,Q420,Bergsfjord,Bergsfjord,Impact,male,immature,2,0.8380446345164234,Arachidonic,3.5735036946,FA
+F_296,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.8432423859265753,w3,28.8003407782,FA index
+F_296,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.8432423859265753,w6,4.6920911707999995,FA index
+F_296,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.8432423859265753,SFA,29.782939836200004,FA index
+F_296,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.8432423859265753,MFA,36.6810372729,FA index
+F_296,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.8432423859265753,PUFA,33.5360228908,FA index
+F_296,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.8432423859265753,Oleic,14.8096608522,FA
+F_296,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.8432423859265753,Linoleic,2.0777738307,FA
+F_296,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.8432423859265753,Linolenic,2.1213647725,FA
+F_296,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.8432423859265753,Docosahexaenoic,18.5405474323,FA
+F_296,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.8432423859265753,Eicosapentaenoic,7.6740419937,FA
+F_296,Q420,Bergsfjord,Bergsfjord,Impact,female,mature,4,0.8432423859265753,Arachidonic,0.4946213965,FA
+F_297,Q420,Bergsfjord,Bergsfjord,Impact,female,immature,2,0.7847065698305368,w3,4.1642002148,FA index
+F_297,Q420,Bergsfjord,Bergsfjord,Impact,female,immature,2,0.7847065698305368,w6,1.4555662367,FA index
+F_297,Q420,Bergsfjord,Bergsfjord,Impact,female,immature,2,0.7847065698305368,SFA,62.6256385044,FA index
+F_297,Q420,Bergsfjord,Bergsfjord,Impact,female,immature,2,0.7847065698305368,MFA,32.1376360264,FA index
+F_297,Q420,Bergsfjord,Bergsfjord,Impact,female,immature,2,0.7847065698305368,PUFA,5.2367254691,FA index
+F_297,Q420,Bergsfjord,Bergsfjord,Impact,female,immature,2,0.7847065698305368,Oleic,13.5475000209,FA
+F_297,Q420,Bergsfjord,Bergsfjord,Impact,female,immature,2,0.7847065698305368,Linoleic,0.5747218656,FA
+F_297,Q420,Bergsfjord,Bergsfjord,Impact,female,immature,2,0.7847065698305368,Linolenic,0.1916808832,FA
+F_297,Q420,Bergsfjord,Bergsfjord,Impact,female,immature,2,0.7847065698305368,Docosahexaenoic,2.2572107459,FA
+F_297,Q420,Bergsfjord,Bergsfjord,Impact,female,immature,2,0.7847065698305368,Eicosapentaenoic,1.220890404,FA
+F_297,Q420,Bergsfjord,Bergsfjord,Impact,female,immature,2,0.7847065698305368,Arachidonic,0.5337866981,FA
+F_303,Q420,Frakkfjord,Frakkfjord,Control,male,mature,11,0.937997256515775,w3,15.7438966446,FA index
+F_303,Q420,Frakkfjord,Frakkfjord,Control,male,mature,11,0.937997256515775,w6,3.5728130561,FA index
+F_303,Q420,Frakkfjord,Frakkfjord,Control,male,mature,11,0.937997256515775,SFA,33.2053889322,FA index
+F_303,Q420,Frakkfjord,Frakkfjord,Control,male,mature,11,0.937997256515775,MFA,48.5336439946,FA index
+F_303,Q420,Frakkfjord,Frakkfjord,Control,male,mature,11,0.937997256515775,PUFA,18.2609670732,FA index
+F_303,Q420,Frakkfjord,Frakkfjord,Control,male,mature,11,0.937997256515775,Oleic,19.3021593084,FA
+F_303,Q420,Frakkfjord,Frakkfjord,Control,male,mature,11,0.937997256515775,Linoleic,2.0973715727,FA
+F_303,Q420,Frakkfjord,Frakkfjord,Control,male,mature,11,0.937997256515775,Linolenic,1.0416289452,FA
+F_303,Q420,Frakkfjord,Frakkfjord,Control,male,mature,11,0.937997256515775,Docosahexaenoic,7.6972722185,FA
+F_303,Q420,Frakkfjord,Frakkfjord,Control,male,mature,11,0.937997256515775,Eicosapentaenoic,5.8177296648,FA
+F_303,Q420,Frakkfjord,Frakkfjord,Control,male,mature,11,0.937997256515775,Arachidonic,0.4040754165,FA
+F_37,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,5,0.8760134004285166,w3,30.1869730105,FA index
+F_37,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,5,0.8760134004285166,w6,8.3909223509,FA index
+F_37,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,5,0.8760134004285166,SFA,32.2605545808,FA index
+F_37,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,5,0.8760134004285166,MFA,31.1191839596,FA index
+F_37,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,5,0.8760134004285166,PUFA,36.6202614595,FA index
+F_37,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,5,0.8760134004285166,Oleic,19.3259613807,FA
+F_37,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,5,0.8760134004285166,Linoleic,2.6018183831,FA
+F_37,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,5,0.8760134004285166,Linolenic,0.6441844812,FA
+F_37,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,5,0.8760134004285166,Docosahexaenoic,14.5451581278,FA
+F_37,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,5,0.8760134004285166,Eicosapentaenoic,12.8086106904,FA
+F_37,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,5,0.8760134004285166,Arachidonic,0.6734885428,FA
+F_38,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.8969254387908338,w3,36.3040492738,FA index
+F_38,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.8969254387908338,w6,4.7494483266000005,FA index
+F_38,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.8969254387908338,SFA,33.2130403532,FA index
+F_38,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.8969254387908338,MFA,27.645484643100005,FA index
+F_38,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.8969254387908338,PUFA,39.14147500360001,FA index
+F_38,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.8969254387908338,Oleic,16.4822855771,FA
+F_38,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.8969254387908338,Linoleic,2.4136584261,FA
+F_38,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.8969254387908338,Linolenic,0.5016358293,FA
+F_38,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.8969254387908338,Docosahexaenoic,22.5386311214,FA
+F_38,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.8969254387908338,Eicosapentaenoic,11.1997215865,FA
+F_38,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.8969254387908338,Arachidonic,0.6893723002,FA
+F_41,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8313593294460642,w3,14.563613537599998,FA index
+F_41,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8313593294460642,w6,4.1901912957,FA index
+F_41,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8313593294460642,SFA,44.9178155564,FA index
+F_41,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8313593294460642,MFA,37.333675321399994,FA index
+F_41,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8313593294460642,PUFA,17.7485091222,FA index
+F_41,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8313593294460642,Oleic,12.0313564486,FA
+F_41,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8313593294460642,Linoleic,1.9326028922,FA
+F_41,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8313593294460642,Linolenic,0.9273071811,FA
+F_41,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8313593294460642,Docosahexaenoic,5.5767932899,FA
+F_41,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8313593294460642,Eicosapentaenoic,6.877042318,FA
+F_41,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8313593294460642,Arachidonic,0.5696277103,FA
+F_42,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8176931486880467,w3,33.1698846433,FA index
+F_42,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8176931486880467,w6,6.675221761999999,FA index
+F_42,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8176931486880467,SFA,33.11524901889999,FA index
+F_42,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8176931486880467,MFA,28.8073907579,FA index
+F_42,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8176931486880467,PUFA,38.077360223,FA index
+F_42,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8176931486880467,Oleic,17.1986544764,FA
+F_42,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8176931486880467,Linoleic,2.5888561714,FA
+F_42,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8176931486880467,Linolenic,0.8211099891,FA
+F_42,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8176931486880467,Docosahexaenoic,17.2979799589,FA
+F_42,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8176931486880467,Eicosapentaenoic,13.0714632057,FA
+F_42,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8176931486880467,Arachidonic,0.8967399278,FA
+F_45,Q419,Outer Bergsfjord,Bergsfjord,Control,female,immature,5,0.9230366253644317,w3,24.973743977900003,FA index
+F_45,Q419,Outer Bergsfjord,Bergsfjord,Control,female,immature,5,0.9230366253644317,w6,6.832094786800001,FA index
+F_45,Q419,Outer Bergsfjord,Bergsfjord,Control,female,immature,5,0.9230366253644317,SFA,39.2212937833,FA index
+F_45,Q419,Outer Bergsfjord,Bergsfjord,Control,female,immature,5,0.9230366253644317,MFA,30.923997915899996,FA index
+F_45,Q419,Outer Bergsfjord,Bergsfjord,Control,female,immature,5,0.9230366253644317,PUFA,29.8547083008,FA index
+F_45,Q419,Outer Bergsfjord,Bergsfjord,Control,female,immature,5,0.9230366253644317,Oleic,6.131830555,FA
+F_45,Q419,Outer Bergsfjord,Bergsfjord,Control,female,immature,5,0.9230366253644317,Linoleic,2.5509905021,FA
+F_45,Q419,Outer Bergsfjord,Bergsfjord,Control,female,immature,5,0.9230366253644317,Linolenic,0.5998600382,FA
+F_45,Q419,Outer Bergsfjord,Bergsfjord,Control,female,immature,5,0.9230366253644317,Docosahexaenoic,5.4381989598,FA
+F_45,Q419,Outer Bergsfjord,Bergsfjord,Control,female,immature,5,0.9230366253644317,Eicosapentaenoic,16.6676979757,FA
+F_45,Q419,Outer Bergsfjord,Bergsfjord,Control,female,immature,5,0.9230366253644317,Arachidonic,0.9933886446,FA
+F_47,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8992,w3,12.3817032042,FA index
+F_47,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8992,w6,3.1516830779000005,FA index
+F_47,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8992,SFA,45.3918195303,FA index
+F_47,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8992,MFA,40.194007507,FA index
+F_47,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8992,PUFA,14.4141729629,FA index
+F_47,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8992,Oleic,13.9844986886,FA
+F_47,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8992,Linoleic,1.6155824255,FA
+F_47,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8992,Linolenic,0.4963691063,FA
+F_47,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8992,Docosahexaenoic,5.789214373,FA
+F_47,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8992,Eicosapentaenoic,4.8087499886,FA
+F_47,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,3,0.8992,Arachidonic,0.4801466285,FA
+F_48,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.835752772258471,w3,35.6255060574,FA index
+F_48,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.835752772258471,w6,5.9774604772,FA index
+F_48,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.835752772258471,SFA,32.17072928779999,FA index
+F_48,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.835752772258471,MFA,27.931023333699997,FA index
+F_48,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.835752772258471,PUFA,39.8982473783,FA index
+F_48,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.835752772258471,Oleic,17.7886524897,FA
+F_48,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.835752772258471,Linoleic,2.0845361949,FA
+F_48,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.835752772258471,Linolenic,0.3798170386,FA
+F_48,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.835752772258471,Docosahexaenoic,22.2182309317,FA
+F_48,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.835752772258471,Eicosapentaenoic,11.1515299114,FA
+F_48,Q419,Outer Bergsfjord,Bergsfjord,Control,male,mature,4,0.835752772258471,Arachidonic,0.6794734679,FA
+F_53,Q419,Outer Bergsfjord,Bergsfjord,Control,female,mature,3,0.8101999726849384,w3,28.317008787,FA index
+F_53,Q419,Outer Bergsfjord,Bergsfjord,Control,female,mature,3,0.8101999726849384,w6,7.0187287343,FA index
+F_53,Q419,Outer Bergsfjord,Bergsfjord,Control,female,mature,3,0.8101999726849384,SFA,40.9656103797,FA index
+F_53,Q419,Outer Bergsfjord,Bergsfjord,Control,female,mature,3,0.8101999726849384,MFA,25.417685722300003,FA index
+F_53,Q419,Outer Bergsfjord,Bergsfjord,Control,female,mature,3,0.8101999726849384,PUFA,33.616703898000004,FA index
+F_53,Q419,Outer Bergsfjord,Bergsfjord,Control,female,mature,3,0.8101999726849384,Oleic,12.4777896057,FA
+F_53,Q419,Outer Bergsfjord,Bergsfjord,Control,female,mature,3,0.8101999726849384,Linoleic,2.3618745177,FA
+F_53,Q419,Outer Bergsfjord,Bergsfjord,Control,female,mature,3,0.8101999726849384,Linolenic,0.6428408944,FA
+F_53,Q419,Outer Bergsfjord,Bergsfjord,Control,female,mature,3,0.8101999726849384,Docosahexaenoic,15.2695693781,FA
+F_53,Q419,Outer Bergsfjord,Bergsfjord,Control,female,mature,3,0.8101999726849384,Eicosapentaenoic,10.4474436813,FA
+F_53,Q419,Outer Bergsfjord,Bergsfjord,Control,female,mature,3,0.8101999726849384,Arachidonic,0.998844849,FA
+F_54,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8673178061607814,w3,40.1250811178,FA index
+F_54,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8673178061607814,w6,4.640886215,FA index
+F_54,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8673178061607814,SFA,37.13524334230001,FA index
+F_54,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8673178061607814,MFA,20.0728341139,FA index
+F_54,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8673178061607814,PUFA,42.7919225439,FA index
+F_54,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8673178061607814,Oleic,11.883984869,FA
+F_54,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8673178061607814,Linoleic,2.3057731568,FA
+F_54,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8673178061607814,Linolenic,0.3317283679,FA
+F_54,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8673178061607814,Docosahexaenoic,23.4824775125,FA
+F_54,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8673178061607814,Eicosapentaenoic,14.0375138555,FA
+F_54,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8673178061607814,Arachidonic,0.650844881,FA
+F_55,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,4,0.940466392318244,w3,9.9277092286,FA index
+F_55,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,4,0.940466392318244,w6,3.4529850344999997,FA index
+F_55,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,4,0.940466392318244,SFA,49.874444285900005,FA index
+F_55,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,4,0.940466392318244,MFA,37.7022531642,FA index
+F_55,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,4,0.940466392318244,PUFA,12.42330255,FA index
+F_55,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,4,0.940466392318244,Oleic,20.6827737913,FA
+F_55,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,4,0.940466392318244,Linoleic,1.8964366384,FA
+F_55,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,4,0.940466392318244,Linolenic,0.9390449253,FA
+F_55,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,4,0.940466392318244,Docosahexaenoic,4.1691061941,FA
+F_55,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,4,0.940466392318244,Eicosapentaenoic,3.5128474188,FA
+F_55,Q419,Outer Bergsfjord,Bergsfjord,Control,male,immature,4,0.940466392318244,Arachidonic,0.6788790773,FA
+F_57,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,8,1.0731072937296535,w3,28.6794421166,FA index
+F_57,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,8,1.0731072937296535,w6,4.929848217299999,FA index
+F_57,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,8,1.0731072937296535,SFA,30.6333197691,FA index
+F_57,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,8,1.0731072937296535,MFA,38.242995979099994,FA index
+F_57,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,8,1.0731072937296535,PUFA,31.1236842518,FA index
+F_57,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,8,1.0731072937296535,Oleic,20.1471668371,FA
+F_57,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,8,1.0731072937296535,Linoleic,2.7861240102,FA
+F_57,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,8,1.0731072937296535,Linolenic,0.3005179281,FA
+F_57,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,8,1.0731072937296535,Docosahexaenoic,16.0302277238,FA
+F_57,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,8,1.0731072937296535,Eicosapentaenoic,9.6005948826,FA
+F_57,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,8,1.0731072937296535,Arachidonic,0.7073631394,FA
+F_58,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,9,0.7998483575168762,w3,24.9589081548,FA index
+F_58,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,9,0.7998483575168762,w6,5.967552195700001,FA index
+F_58,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,9,0.7998483575168762,SFA,24.4867115649,FA index
+F_58,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,9,0.7998483575168762,MFA,46.06879679509999,FA index
+F_58,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,9,0.7998483575168762,PUFA,29.4444916402,FA index
+F_58,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,9,0.7998483575168762,Oleic,19.6604151945,FA
+F_58,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,9,0.7998483575168762,Linoleic,2.9630941216,FA
+F_58,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,9,0.7998483575168762,Linolenic,1.4811254113,FA
+F_58,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,9,0.7998483575168762,Docosahexaenoic,15.2750688028,FA
+F_58,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,9,0.7998483575168762,Eicosapentaenoic,6.1013719866,FA
+F_58,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,9,0.7998483575168762,Arachidonic,0.6994104524,FA
+F_6,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8433945532598719,w3,25.3113445411,FA index
+F_6,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8433945532598719,w6,15.1238002946,FA index
+F_6,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8433945532598719,SFA,19.539850750100005,FA index
+F_6,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8433945532598719,MFA,49.1483267669,FA index
+F_6,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8433945532598719,PUFA,31.3118224831,FA index
+F_6,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8433945532598719,Oleic,29.0253035713,FA
+F_6,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8433945532598719,Linoleic,11.9949727855,FA
+F_6,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8433945532598719,Linolenic,2.8716504329,FA
+F_6,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8433945532598719,Docosahexaenoic,6.8107764786,FA
+F_6,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8433945532598719,Eicosapentaenoic,5.9100530845,FA
+F_6,Q419,Bergsfjord,Bergsfjord,Impact,female,immature,3,0.8433945532598719,Arachidonic,0.6070154513,FA
+F_62,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8228588617789492,w3,11.1222949798,FA index
+F_62,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8228588617789492,w6,4.1211277918,FA index
+F_62,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8228588617789492,SFA,32.5264934557,FA index
+F_62,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8228588617789492,MFA,53.7750205513,FA index
+F_62,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8228588617789492,PUFA,13.6984859929,FA index
+F_62,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8228588617789492,Oleic,15.1277808082,FA
+F_62,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8228588617789492,Linoleic,2.0731151148,FA
+F_62,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8228588617789492,Linolenic,0.5281783361,FA
+F_62,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8228588617789492,Docosahexaenoic,6.6649241204,FA
+F_62,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8228588617789492,Eicosapentaenoic,2.2386954995,FA
+F_62,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8228588617789492,Arachidonic,0.1841735096,FA
+F_69,Q419,Bergsfjord,Bergsfjord,Impact,male,mature,4,0.864391744242737,w3,17.9254916523,FA index
+F_69,Q419,Bergsfjord,Bergsfjord,Impact,male,mature,4,0.864391744242737,w6,4.968538849900001,FA index
+F_69,Q419,Bergsfjord,Bergsfjord,Impact,male,mature,4,0.864391744242737,SFA,45.565349433399994,FA index
+F_69,Q419,Bergsfjord,Bergsfjord,Impact,male,mature,4,0.864391744242737,MFA,33.1058165645,FA index
+F_69,Q419,Bergsfjord,Bergsfjord,Impact,male,mature,4,0.864391744242737,PUFA,21.328834002199997,FA index
+F_69,Q419,Bergsfjord,Bergsfjord,Impact,male,mature,4,0.864391744242737,Oleic,18.8530794963,FA
+F_69,Q419,Bergsfjord,Bergsfjord,Impact,male,mature,4,0.864391744242737,Linoleic,2.1448002739,FA
+F_69,Q419,Bergsfjord,Bergsfjord,Impact,male,mature,4,0.864391744242737,Linolenic,0.5796037739,FA
+F_69,Q419,Bergsfjord,Bergsfjord,Impact,male,mature,4,0.864391744242737,Docosahexaenoic,10.0874949445,FA
+F_69,Q419,Bergsfjord,Bergsfjord,Impact,male,mature,4,0.864391744242737,Eicosapentaenoic,5.4734560807,FA
+F_69,Q419,Bergsfjord,Bergsfjord,Impact,male,mature,4,0.864391744242737,Arachidonic,0.4020778326,FA
+F_7,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8947017398155452,w3,29.3649532281,FA index
+F_7,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8947017398155452,w6,5.6456113599,FA index
+F_7,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8947017398155452,SFA,27.1106774883,FA index
+F_7,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8947017398155452,MFA,39.52301730079999,FA index
+F_7,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8947017398155452,PUFA,33.366305211,FA index
+F_7,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8947017398155452,Oleic,21.3674759509,FA
+F_7,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8947017398155452,Linoleic,2.7667951786,FA
+F_7,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8947017398155452,Linolenic,1.1225358016,FA
+F_7,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8947017398155452,Docosahexaenoic,16.9544854038,FA
+F_7,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8947017398155452,Eicosapentaenoic,9.287473978,FA
+F_7,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,0.8947017398155452,Arachidonic,1.0791046637,FA
+F_70,Q419,Frakkfjord,Frakkfjord,Control,female,mature,12,0.8492895825343597,w3,30.155240840400005,FA index
+F_70,Q419,Frakkfjord,Frakkfjord,Control,female,mature,12,0.8492895825343597,w6,5.3976327104,FA index
+F_70,Q419,Frakkfjord,Frakkfjord,Control,female,mature,12,0.8492895825343597,SFA,32.0171840085,FA index
+F_70,Q419,Frakkfjord,Frakkfjord,Control,female,mature,12,0.8492895825343597,MFA,34.79241664799999,FA index
+F_70,Q419,Frakkfjord,Frakkfjord,Control,female,mature,12,0.8492895825343597,PUFA,33.1903993437,FA index
+F_70,Q419,Frakkfjord,Frakkfjord,Control,female,mature,12,0.8492895825343597,Oleic,21.9881906567,FA
+F_70,Q419,Frakkfjord,Frakkfjord,Control,female,mature,12,0.8492895825343597,Linoleic,2.6558456617,FA
+F_70,Q419,Frakkfjord,Frakkfjord,Control,female,mature,12,0.8492895825343597,Linolenic,0.2933714546,FA
+F_70,Q419,Frakkfjord,Frakkfjord,Control,female,mature,12,0.8492895825343597,Docosahexaenoic,18.0257972473,FA
+F_70,Q419,Frakkfjord,Frakkfjord,Control,female,mature,12,0.8492895825343597,Eicosapentaenoic,9.2428745971,FA
+F_70,Q419,Frakkfjord,Frakkfjord,Control,female,mature,12,0.8492895825343597,Arachidonic,0.807725428,FA
+F_71,Q419,Frakkfjord,Frakkfjord,Control,female,mature,6,0.8195763821288309,w3,25.8944569757,FA index
+F_71,Q419,Frakkfjord,Frakkfjord,Control,female,mature,6,0.8195763821288309,w6,3.903817220500001,FA index
+F_71,Q419,Frakkfjord,Frakkfjord,Control,female,mature,6,0.8195763821288309,SFA,29.1670275209,FA index
+F_71,Q419,Frakkfjord,Frakkfjord,Control,female,mature,6,0.8195763821288309,MFA,42.0270475814,FA index
+F_71,Q419,Frakkfjord,Frakkfjord,Control,female,mature,6,0.8195763821288309,PUFA,28.805924897799997,FA index
+F_71,Q419,Frakkfjord,Frakkfjord,Control,female,mature,6,0.8195763821288309,Oleic,11.2086549478,FA
+F_71,Q419,Frakkfjord,Frakkfjord,Control,female,mature,6,0.8195763821288309,Linoleic,2.0498442934,FA
+F_71,Q419,Frakkfjord,Frakkfjord,Control,female,mature,6,0.8195763821288309,Linolenic,1.057494995,FA
+F_71,Q419,Frakkfjord,Frakkfjord,Control,female,mature,6,0.8195763821288309,Docosahexaenoic,17.491359211,FA
+F_71,Q419,Frakkfjord,Frakkfjord,Control,female,mature,6,0.8195763821288309,Eicosapentaenoic,6.1353369158,FA
+F_71,Q419,Frakkfjord,Frakkfjord,Control,female,mature,6,0.8195763821288309,Arachidonic,0.3425872976,FA
+F_72,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.8961475090243627,w3,31.6116140272,FA index
+F_72,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.8961475090243627,w6,5.0148746917,FA index
+F_72,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.8961475090243627,SFA,33.51717562020001,FA index
+F_72,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.8961475090243627,MFA,31.997991091599996,FA index
+F_72,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.8961475090243627,PUFA,34.4848332882,FA index
+F_72,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.8961475090243627,Oleic,19.6599861977,FA
+F_72,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.8961475090243627,Linoleic,2.4691672033,FA
+F_72,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.8961475090243627,Linolenic,0.3275117726,FA
+F_72,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.8961475090243627,Docosahexaenoic,20.1739809949,FA
+F_72,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.8961475090243627,Eicosapentaenoic,8.6814274468,FA
+F_72,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.8961475090243627,Arachidonic,0.5797537551,FA
+F_73,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,1.009927381190289,w3,27.8367707091,FA index
+F_73,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,1.009927381190289,w6,4.805374015100001,FA index
+F_73,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,1.009927381190289,SFA,34.12295670710001,FA index
+F_73,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,1.009927381190289,MFA,33.7583179139,FA index
+F_73,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,1.009927381190289,PUFA,32.118725378899995,FA index
+F_73,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,1.009927381190289,Oleic,15.0990529224,FA
+F_73,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,1.009927381190289,Linoleic,1.5550063159,FA
+F_73,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,1.009927381190289,Linolenic,1.0315869706,FA
+F_73,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,1.009927381190289,Docosahexaenoic,16.0814578033,FA
+F_73,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,1.009927381190289,Eicosapentaenoic,9.6746059701,FA
+F_73,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,1.009927381190289,Arachidonic,1.4132922614,FA
+F_74,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.9276407004850996,w3,9.812206690499998,FA index
+F_74,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.9276407004850996,w6,3.1464516827,FA index
+F_74,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.9276407004850996,SFA,50.8899904515,FA index
+F_74,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.9276407004850996,MFA,36.9261146483,FA index
+F_74,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.9276407004850996,PUFA,12.1838949002,FA index
+F_74,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.9276407004850996,Oleic,15.5545400505,FA
+F_74,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.9276407004850996,Linoleic,1.3040362472,FA
+F_74,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.9276407004850996,Linolenic,0.5292727742,FA
+F_74,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.9276407004850996,Docosahexaenoic,4.4776883882,FA
+F_74,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.9276407004850996,Eicosapentaenoic,3.7489732761,FA
+F_74,Q419,Frakkfjord,Frakkfjord,Control,female,mature,8,0.9276407004850996,Arachidonic,0.6825552167,FA
+F_79,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.7599654662751354,w3,21.9197034632,FA index
+F_79,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.7599654662751354,w6,3.4900476076,FA index
+F_79,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.7599654662751354,SFA,45.2827842753,FA index
+F_79,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.7599654662751354,MFA,29.4038170907,FA index
+F_79,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.7599654662751354,PUFA,25.3133986339,FA index
+F_79,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.7599654662751354,Oleic,7.8904574605,FA
+F_79,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.7599654662751354,Linoleic,0.4524146095,FA
+F_79,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.7599654662751354,Linolenic,0.3560621726,FA
+F_79,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.7599654662751354,Docosahexaenoic,15.1805740854,FA
+F_79,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.7599654662751354,Eicosapentaenoic,6.0275902303,FA
+F_79,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.7599654662751354,Arachidonic,2.2854506797,FA
+F_80,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,0.9886297376093296,w3,29.4543843269,FA index
+F_80,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,0.9886297376093296,w6,3.8833057725,FA index
+F_80,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,0.9886297376093296,SFA,30.3073452784,FA index
+F_80,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,0.9886297376093296,MFA,37.6120954998,FA index
+F_80,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,0.9886297376093296,PUFA,32.0805592219,FA index
+F_80,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,0.9886297376093296,Oleic,17.5932009429,FA
+F_80,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,0.9886297376093296,Linoleic,1.6365485924,FA
+F_80,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,0.9886297376093296,Linolenic,0.3794177149,FA
+F_80,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,0.9886297376093296,Docosahexaenoic,18.8884889303,FA
+F_80,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,0.9886297376093296,Eicosapentaenoic,8.6707746456,FA
+F_80,Q419,Frakkfjord,Frakkfjord,Control,female,mature,4,0.9886297376093296,Arachidonic,0.9744314509,FA
+F_81,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.9653061224489796,w3,25.3503681416,FA index
+F_81,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.9653061224489796,w6,4.1213713923,FA index
+F_81,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.9653061224489796,SFA,26.4809513055,FA index
+F_81,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.9653061224489796,MFA,44.848320623899994,FA index
+F_81,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.9653061224489796,PUFA,28.670728070400003,FA index
+F_81,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.9653061224489796,Oleic,16.2586335955,FA
+F_81,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.9653061224489796,Linoleic,1.6730492688,FA
+F_81,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.9653061224489796,Linolenic,0.8720378053,FA
+F_81,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.9653061224489796,Docosahexaenoic,14.7681190878,FA
+F_81,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.9653061224489796,Eicosapentaenoic,8.5416326152,FA
+F_81,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.9653061224489796,Arachidonic,0.794506621,FA
+F_82,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.9882142157274432,w3,23.9148570495,FA index
+F_82,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.9882142157274432,w6,4.6370054313,FA index
+F_82,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.9882142157274432,SFA,30.5069044174,FA index
+F_82,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.9882142157274432,MFA,41.54287031170001,FA index
+F_82,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.9882142157274432,PUFA,27.9502252707,FA index
+F_82,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.9882142157274432,Oleic,17.8201546112,FA
+F_82,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.9882142157274432,Linoleic,1.3674508622,FA
+F_82,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.9882142157274432,Linolenic,0.7658136521,FA
+F_82,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.9882142157274432,Docosahexaenoic,12.874126497,FA
+F_82,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.9882142157274432,Eicosapentaenoic,9.1776427482,FA
+F_82,Q419,Frakkfjord,Frakkfjord,Control,male,mature,6,0.9882142157274432,Arachidonic,1.9527892675,FA
+F_83,Q419,Frakkfjord,Frakkfjord,Control,male,immature,5,0.8996020367940473,w3,30.9341003403,FA index
+F_83,Q419,Frakkfjord,Frakkfjord,Control,male,immature,5,0.8996020367940473,w6,4.849249488599999,FA index
+F_83,Q419,Frakkfjord,Frakkfjord,Control,male,immature,5,0.8996020367940473,SFA,42.47903942520001,FA index
+F_83,Q419,Frakkfjord,Frakkfjord,Control,male,immature,5,0.8996020367940473,MFA,22.4284924398,FA index
+F_83,Q419,Frakkfjord,Frakkfjord,Control,male,immature,5,0.8996020367940473,PUFA,35.0924681348,FA index
+F_83,Q419,Frakkfjord,Frakkfjord,Control,male,immature,5,0.8996020367940473,Oleic,10.3360957294,FA
+F_83,Q419,Frakkfjord,Frakkfjord,Control,male,immature,5,0.8996020367940473,Linoleic,0.9873603815,FA
+F_83,Q419,Frakkfjord,Frakkfjord,Control,male,immature,5,0.8996020367940473,Linolenic,0.2964786874,FA
+F_83,Q419,Frakkfjord,Frakkfjord,Control,male,immature,5,0.8996020367940473,Docosahexaenoic,21.9746039803,FA
+F_83,Q419,Frakkfjord,Frakkfjord,Control,male,immature,5,0.8996020367940473,Eicosapentaenoic,7.7027635091,FA
+F_83,Q419,Frakkfjord,Frakkfjord,Control,male,immature,5,0.8996020367940473,Arachidonic,2.9493129818,FA
+F_86,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7551020408163265,w3,27.3410197066,FA index
+F_86,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7551020408163265,w6,7.909357499700001,FA index
+F_86,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7551020408163265,SFA,26.720844245499997,FA index
+F_86,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7551020408163265,MFA,38.06117749089999,FA index
+F_86,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7551020408163265,PUFA,35.2179782634,FA index
+F_86,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7551020408163265,Oleic,9.4221128816,FA
+F_86,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7551020408163265,Linoleic,2.2867667043,FA
+F_86,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7551020408163265,Linolenic,2.2543677614,FA
+F_86,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7551020408163265,Docosahexaenoic,17.0064509048,FA
+F_86,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7551020408163265,Eicosapentaenoic,7.6292283612,FA
+F_86,Q419,Frakkfjord,Frakkfjord,Control,male,mature,4,0.7551020408163265,Arachidonic,0.3728982176,FA
+F_9,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,1.0507276622979105,w3,23.6847360678,FA index
+F_9,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,1.0507276622979105,w6,12.3815148978,FA index
+F_9,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,1.0507276622979105,SFA,22.446076583800004,FA index
+F_9,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,1.0507276622979105,MFA,47.2979339104,FA index
+F_9,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,1.0507276622979105,PUFA,30.255989505899997,FA index
+F_9,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,1.0507276622979105,Oleic,29.675236675,FA
+F_9,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,1.0507276622979105,Linoleic,8.0532424966,FA
+F_9,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,1.0507276622979105,Linolenic,2.2429810369,FA
+F_9,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,1.0507276622979105,Docosahexaenoic,7.9530102397,FA
+F_9,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,1.0507276622979105,Eicosapentaenoic,7.1034718327,FA
+F_9,Q419,Bergsfjord,Bergsfjord,Impact,female,mature,5,1.0507276622979105,Arachidonic,1.0638391133,FA
+F_93,Q419,Frakkfjord,Frakkfjord,Control,female,mature,5,0.9667349199422643,w3,27.2624811654,FA index
+F_93,Q419,Frakkfjord,Frakkfjord,Control,female,mature,5,0.9667349199422643,w6,4.207578271,FA index
+F_93,Q419,Frakkfjord,Frakkfjord,Control,female,mature,5,0.9667349199422643,SFA,26.674929715700003,FA index
+F_93,Q419,Frakkfjord,Frakkfjord,Control,female,mature,5,0.9667349199422643,MFA,42.8789891102,FA index
+F_93,Q419,Frakkfjord,Frakkfjord,Control,female,mature,5,0.9667349199422643,PUFA,30.446081174,FA index
+F_93,Q419,Frakkfjord,Frakkfjord,Control,female,mature,5,0.9667349199422643,Oleic,15.4855507948,FA
+F_93,Q419,Frakkfjord,Frakkfjord,Control,female,mature,5,0.9667349199422643,Linoleic,1.9089627849,FA
+F_93,Q419,Frakkfjord,Frakkfjord,Control,female,mature,5,0.9667349199422643,Linolenic,0.8849845225,FA
+F_93,Q419,Frakkfjord,Frakkfjord,Control,female,mature,5,0.9667349199422643,Docosahexaenoic,17.1628648639,FA
+F_93,Q419,Frakkfjord,Frakkfjord,Control,female,mature,5,0.9667349199422643,Eicosapentaenoic,7.9318513046,FA
+F_93,Q419,Frakkfjord,Frakkfjord,Control,female,mature,5,0.9667349199422643,Arachidonic,0.6041449741,FA
+F_97,Q419,Frakkfjord,Frakkfjord,Control,male,mature,5,0.6068148148148148,w3,15.9512179999,FA index
+F_97,Q419,Frakkfjord,Frakkfjord,Control,male,mature,5,0.6068148148148148,w6,3.9100439555,FA index
+F_97,Q419,Frakkfjord,Frakkfjord,Control,male,mature,5,0.6068148148148148,SFA,38.940414446999995,FA index
+F_97,Q419,Frakkfjord,Frakkfjord,Control,male,mature,5,0.6068148148148148,MFA,42.14612146679999,FA index
+F_97,Q419,Frakkfjord,Frakkfjord,Control,male,mature,5,0.6068148148148148,PUFA,18.9134640863,FA index
+F_97,Q419,Frakkfjord,Frakkfjord,Control,male,mature,5,0.6068148148148148,Oleic,13.8259932674,FA
+F_97,Q419,Frakkfjord,Frakkfjord,Control,male,mature,5,0.6068148148148148,Linoleic,1.5240088602,FA
+F_97,Q419,Frakkfjord,Frakkfjord,Control,male,mature,5,0.6068148148148148,Linolenic,0.5762109911,FA
+F_97,Q419,Frakkfjord,Frakkfjord,Control,male,mature,5,0.6068148148148148,Docosahexaenoic,8.8181791242,FA
+F_97,Q419,Frakkfjord,Frakkfjord,Control,male,mature,5,0.6068148148148148,Eicosapentaenoic,5.260106205,FA
+F_97,Q419,Frakkfjord,Frakkfjord,Control,male,mature,5,0.6068148148148148,Arachidonic,0.814290213,FA

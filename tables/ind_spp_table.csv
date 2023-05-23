@@ -1,0 +1,13 @@
+Treatment,Taxa,stat,p.value
+Control,Docosadienoic,0.731,0.001
+Control,Eicosapentaenoic,0.729,0.001
+Control,Docosahexaenoic,0.734,0.001
+Control,cis_11_Eicosenoic,0.735,0.005
+Control,Nervonic,0.725,0.01
+Control,cis_10_Heptadecenoic,0.717,0.018
+Control,Myristic,0.717,0.034
+Control,Behenic,0.713,0.089
+Control,Lignoceric,0.726,0.091
+Impacted,Lauric,0.576,0.007
+Impacted,Linoleic,0.73,0.027
+Impacted,Linolenic,0.727,0.092
